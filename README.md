@@ -5,14 +5,14 @@ Project Overview
 
 This project demonstrates automatic text summarization using LLaMA-2 (7B) integrated with LangChain. It loads large documents, splits them into manageable chunks, and generates concise summaries highlighting only the key points.
 
-** Features **
+🔹 Features
 
 Uses Hugging Face Transformers with meta-llama/Llama-2-7b-chat-hf.
 LangChain pipeline for managing prompts and chaining summarization tasks.
 Splits large documents into overlapping chunks for better context preservation.
 Generates clear, concise summaries focused on the main ideas.
 
- ** Tech Stack **
+🔹 Tech Stack 
 
 Python
 Transformers (Hugging Face)
